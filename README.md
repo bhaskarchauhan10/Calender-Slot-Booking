@@ -18,4 +18,5 @@
 # 2.
 ![Screenshot 6](https://user-images.githubusercontent.com/54903209/82756889-86f7e800-9dfa-11ea-8c12-6f73bd8b5183.JPG)
 
-
+# Booked slots details at manager end
+![Screenshot 7](https://user-images.githubusercontent.com/54903209/82757330-69784d80-9dfd-11ea-92b2-f83d2b389a7a.JPG)
