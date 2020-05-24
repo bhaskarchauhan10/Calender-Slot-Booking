@@ -20,3 +20,6 @@
 
 # Booked slots details at manager end
 ![Screenshot 7](https://user-images.githubusercontent.com/54903209/82757330-69784d80-9dfd-11ea-92b2-f83d2b389a7a.JPG)
+
+# Available free slot for the appointment
+![Screenshot 8](https://user-images.githubusercontent.com/54903209/82757389-c7a53080-9dfd-11ea-8abd-d0965cc15494.JPG)
